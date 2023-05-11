@@ -1,3 +1,5 @@
+**This project has been discontinued. Please use [tidwall/tinylru](https://github.com/tidwall/tinylru) instead.**
+
 # lru
 
 [![GoDoc](https://img.shields.io/badge/api-reference-blue.svg?style=flat-square)](https://godoc.org/github.com/tidwall/lru)
